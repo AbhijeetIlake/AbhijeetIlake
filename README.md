@@ -66,9 +66,9 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
+- GitHub: https://github.com/AbhijeetIlake
+- LinkedIn: https://linkedin.com/in/abhijeetilake
+- Portfolio: [still in work...]
 
 ---
 
