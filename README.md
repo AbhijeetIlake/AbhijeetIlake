@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm a Full Stack Developer
 
-<!--
-**AbhijeetIlake/AbhijeetIlake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack & Full Stack Web Developer passionate about building scalable, high-performance web applications with clean and maintainable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- **JavaScript (ES6+)**
+- **Full Stack Web Development**
+
+---
+
+## 🎨 Frontend Development
+- React.js
+- Next.js
+- Tailwind CSS
+- HTML5
+- CSS3
+- Bootstrap
+
+---
+
+## ⚙️ Backend Development
+- Node.js
+- Express.js
+- RESTful APIs
+- Authentication & Authorization (JWT)
+- API Integration
+
+---
+
+## 🗄️ Databases
+- MongoDB
+- SQL
+- Oracle SQL Developer
+
+---
+
+## 🛠️ Tools & Version Control
+- Git
+- GitHub
+- Postman
+
+---
+
+## 🐍 Programming Languages
+- JavaScript
+- Python
+
+---
+
+## 📌 What I Do
+- Build full-stack web applications
+- Design RESTful APIs
+- Implement secure authentication systems
+- Create responsive and user-friendly interfaces
+- Write clean, maintainable, and scalable code
+
+---
+
+## 📂 Featured Projects
+👉 Check out my pinned repositories below to see my work in action.
+
+---
+
+## 📫 Connect With Me
+- GitHub: [Your GitHub Profile Link]
+- LinkedIn: [Your LinkedIn Profile Link]
+- Portfolio: [Your Portfolio Link]
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
