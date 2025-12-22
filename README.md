@@ -45,9 +45,15 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijeetIlake&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetIlake&layout=compact&theme=tokyonight)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetIlake&show_icons=true&hide_title=true&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetIlake&layout=compact&hide_title=true&theme=tokyonight" height="140" />
+</p>
 
 ---
 
