@@ -45,18 +45,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetIlake&show_icons=true&hide_title=true&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetIlake&layout=compact&hide_title=true&theme=tokyonight" height="140" />
-</p>
-
----
-
 ## 📌 What I Do
 - Build MERN & Next.js applications
 - Develop scalable RESTful APIs
