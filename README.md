@@ -1,69 +1,103 @@
-# 👋 Hi, I'm a Full Stack Developer
+# 👋 Hi, I'm Abhijeet
 
-🚀 MERN Stack & Next.js Developer passionate about building scalable, modern, and high-performance web applications.
+🚀 An aspiring **Python Backend Developer** and **Data/AI Engineer**.
 
----
-
-## 🚀 Core Tech Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
-![Express.js](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0B3D2E?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+I'm currently focused on strengthening my Python fundamentals and building projects while learning backend development, data engineering, and AI technologies.
 
 ---
 
-## 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-2D1A0A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0A1A2F?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1A1025?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+## 🐍 Current Focus
+
+- Python Backend Development
+- REST APIs
+- Data Engineering
+- Data Analysis
+- Artificial Intelligence
+- Building practical Python projects
 
 ---
 
-## ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-0B3D2E?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-1F2937?style=for-the-badge)
+## 💻 Languages & Technologies
 
----
-
-## 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-2B0A0A?style=for-the-badge&logo=oracle&logoColor=F80000)
-
----
-
-## 🛠️ Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-2D130F?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-2A1205?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
-## 📌 What I Do
-- Build MERN & Next.js applications
-- Develop scalable RESTful APIs
-- Implement secure authentication and authorization
-- Create responsive UI with Tailwind CSS
-- Write clean, maintainable, and production-ready code
+## ⚙️ Backend Development
+
+Currently learning and working with:
+
+- Python
+- APIs and backend development
+- FastAPI
+- Databases and SQL
+- RESTful API concepts
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge)
 
 ---
 
-## 📂 Featured Projects
-📌 Check out my pinned repositories below to see my work in action.
+## 📊 Data & AI
+
+Currently exploring:
+
+- Data analysis
+- Pandas
+- NumPy
+- Data visualization
+- Machine Learning
+- AI and RAG-based applications
+
+![Pandas](https://img.shields.io/badge/Pandas-1E293B?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-1E293B?style=for-the-badge&logo=numpy)
+
+---
+
+## 🛠️ Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-1E293B?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-2D130F?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Projects
+
+### DataBridge
+
+A command-line Python application for working with structured data stored in CSV and JSON files.
+
+Features include:
+
+- CSV ↔ JSON conversion
+- Data retrieval
+- Searching and filtering
+- Add, update, and delete operations
+
+More projects coming as I continue learning backend development and Data/AI technologies.
+
+---
+
+## 🎯 Current Goal
+
+I'm preparing for opportunities as a:
+
+- **Python Backend Developer**
+- **Data / AI Engineer**
+
+My goal is to build a strong foundation in Python and develop practical projects that demonstrate my skills in backend development, data, and AI.
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/AbhijeetIlake
-- LinkedIn: https://linkedin.com/in/abhijeetilake
-- Portfolio: https://your-portfolio.com
+
+- GitHub: :https://github.com/AbhijeetIlake 
+- LinkedIn: :https://linkedin.com/in/abhijeetilake
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+⭐ Feel free to explore my repositories and follow my learning journey!
